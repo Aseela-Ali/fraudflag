@@ -4,7 +4,7 @@ FraudFlag is a proof-of-concept anomaly detection app developed to explore fraud
 
 This open-source project is inspired by an internal AI-powered tool I developed at **Hardedge Ltd.**, where I used large language models (LLMs) for fraud and root-cause analysis. Due to confidentiality, I cannot share that code — but this version replicates the structure using simulated datasets and transparent rules.
 
-🔗 **Live Demo** (optional if deployed): [link here]  
+ 
 📁 **GitHub Repo**: https://github.com/Aseela-Ali/fraudflag
 
 ---
