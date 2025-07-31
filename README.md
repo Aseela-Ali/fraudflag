@@ -73,7 +73,6 @@ streamlit run app.py
 
 **Aseela Ali**  
 PhD Researcher | Web Developer | AI for Cloud Observability  
-📧 [a.s.b.ali@keele.ac.uk](mailto:a.s.b.ali@keele.ac.uk)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aseela-ali/)
 
 ---
